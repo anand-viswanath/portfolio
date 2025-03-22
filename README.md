@@ -1,1 +1,3 @@
-# portfolio
+# AI & Data Science Specialist | Full-Stack Developer
+
+Hi there! I’m a tech enthusiast with a strong foundation in software engineering and a passion for building intelligent systems. With 3.5+ years of experience in full-stack development and a Master’s in Information Technology from UNSW, I specialize in creating end-to-end solutions that blend AI, data science, and scalable web technologies. My work spans from building recommender systems and AI-driven media tools to developing mobile and backend applications across industries like retail, fintech, and edtech. Whether it’s deep learning, data pipelines, or clean front-end design—I love bringing ideas to life through code.
